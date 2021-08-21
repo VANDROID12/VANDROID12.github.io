@@ -9,14 +9,14 @@
     </form>
     
     <?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-$name = $_REQUEST['fname'];
-if (empty($name)) {
-echo "empty";
-}else{
-echo $name;
-}
-}
-?>
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = $_REQUEST['fname'];
+    if (empty($name)) {
+      echo "empty";
+    } else {
+      echo $name;
+    }
+  }
+  ?>
   </body>
 </html>
