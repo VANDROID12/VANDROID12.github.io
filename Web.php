@@ -8,7 +8,7 @@
 		
 		$connection = mysqli_connect($host , $user , $password , $database);
 		
-		$sql = "INSERT INTO messages (name , message) VALUES ('Dubai' ,'busy')";
+		$sql = "INSERT INTO messages (name , message) VALUES ('Dubai','busy')";
 		
 		if (mysqli_query($connection , $sql)) {
 			echo"new record created";
@@ -16,6 +16,7 @@
 			echo"error";
 		}
 		mysqli.close($connection);
+		echo $_POST["name"];
 		?>
 	</body>
 </html>
