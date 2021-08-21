@@ -2,9 +2,9 @@
 	<body>
 		<?php
 		$host="remotemysql.com";
-    		$user="GWY4IGh2bV";
-    		$password="ZPwVwUyVec";
-    		$database="GWY4IGh2bV";
+    		$user="u536kg4eUS";
+    		$password="zkhAqgg522";
+    		$database="u536kg4eUS";
 		
 		$connection = mysqli_connect($host , $user , $password , $database);
 		
