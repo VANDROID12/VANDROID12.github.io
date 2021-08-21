@@ -10,7 +10,7 @@
     
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $name = $_REQUEST['fname'];
+    $name = $_POST['fname'];
     if (empty($name)) {
       echo "empty";
     } else {
