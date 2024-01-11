@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1004.6666666666666,"scrollY":630},
+{"id":2,"expanded":true,"name":"Mines","order":2,"parentId":0,"scrollX":1290.8571428571427,"scrollY":810},
+{"id":3,"expanded":false,"name":"Prison","order":3,"parentId":0,"scrollX":1290.8571428571427,"scrollY":810},
+{"id":4,"expanded":false,"name":"MainMine","order":4,"parentId":0,"scrollX":1290.8571428571427,"scrollY":810},
+{"id":5,"expanded":true,"name":"Evelinia Centre","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"INN","order":6,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"Weapons","order":7,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Armor","order":8,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"Evelinia West","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"Evelinia Castle","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Evelinia East","order":11,"parentId":0,"scrollX":1004.6666666666666,"scrollY":630}
+]
